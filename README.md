@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
-<h3 align="center">A passionate Software Developer && UI/UX Designer from Delhi</h3>
+<h3 align="center">A passionate Software Development Engineer from Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu2021323&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu2021323" /> </p>
 
